@@ -1,7 +1,7 @@
 # ⛪ Churchbot Frontend
 
 
-This is the **frontend interface** for the [Churchbot](https://huggingface.co/spaces/miyukicodes/churchbot) – an intelligent chatbot designed to answer questions about your church. Built using [Next.js](https://nextjs.org) and styled with [shadcn/ui](https://ui.shadcn.dev), it communicates with a backend hosted on Hugging Face.
+This is the **frontend interface** for the [Churchbot](https://church-bot-mu.vercel.app/) – an intelligent chatbot designed to answer questions about your church. Built using [Next.js](https://nextjs.org) and styled with [shadcn/ui](https://ui.shadcn.dev), it communicates with a backend hosted on Hugging Face.
 
 ---
 
@@ -27,7 +27,8 @@ This is the **frontend interface** for the [Churchbot](https://huggingface.co/sp
 | Backend API    | Hosted on Hugging Face Spaces (Docker SDK)   |
 
 ---
-
+## 🌐 Live Demo
+  👉 Try Churchbot Live [LIVE](https://church-bot-mu.vercel.app/)
 ## 🛠️ Getting Started
 
 Clone this repo:
